@@ -1822,6 +1822,8 @@
 			.box.style1.right .inner {
 				margin-left: 50%;
 				padding-left: 3em;
+								background: rgb(60, 60, 60);
+                                background: rgba(60, 60, 60, 0.4);
 			}
 
 			.box.style1.left .image {
@@ -1835,6 +1837,8 @@
 			.box.style1.left .inner {
 				margin-right: 50%;
 				padding-right: 3em;
+								background: rgb(60, 60, 60);
+                                background: rgba(60, 60, 60, 0.4);
 			}
 
 		.box.style2 {
